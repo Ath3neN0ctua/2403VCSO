@@ -45,7 +45,7 @@ def main():
     destination_folder = os.path.join(user_profile_path, 'Documents')
 
     copy_user_videos(user_profile_path, destination_folder)
-    #create_scheduled_task(task_name, executable_path, trigger_time)
+    #Funcion Comentada: create_scheduled_task(task_name, executable_path, trigger_time)
 
 if __name__ == "__main__":
     main()
