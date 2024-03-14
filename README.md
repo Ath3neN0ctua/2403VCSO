@@ -1,3 +1,3 @@
-# 2311VCSO-
+# 2403VCSO
 
-Repositorio de prueba para Máster 2311VCSO . Fichero con carácter didáctico para formación de máster.
+Repositorio de prueba para Máster 2403VCSO de Immune Technology. Fichero con carácter didáctico para formación de máster.
